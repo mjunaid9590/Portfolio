@@ -1,47 +1,37 @@
-# Chelsea Tolnai - Full Stack Web Developer
+# Muhammad Junaid - Full Stack Web Developer
 
-I am a Full Stack Web Developer currently located in Rhode Island. This is my personal portfolio website that showcases my experience, education, recent projects, technical skill stack, contact information, and a little bit more about me. 
+I am a Full Stack Web Developer currently located in Pakistan. This is my personal portfolio website that showcases my experience, education, recent projects, technical skill stack, contact information, and a little bit more about me. 
 
-You can view my portfolio at [www.ChelseaTolnai.com](https://www.ChelseaTolnai.com).
+You can view my portfolio at [www.CodeWithJunaid.com](https://www.codewithjunaid.com).
 
 ## About Me
 
-I am a Full Stack Web Developer with a passion for learning new languages and problem solving techniques. At my current position as a Senior Development Engineer at CVS Health I lead a team of front end engineers working on the e-commerce site of healthcare's largest retailer.</p>
+I am a Full Stack Web Developer with a passion for learning new languages and problem solving techniques. At my current position, I lead a team of front end engineers working on the e-commerce site of healthcare's largest retailer.</p>
 
-Before transitioning into web and software development, I diligently worked as a paralegal in the New England and Tri-State areas. While in the legal industry I found myself enjoying the technical and computer driven aspects of the office which lead me to follow my true passion for front-end and back-end development.</p>
+Before transitioning into web and software development, I was part of Pakistan Military and shown my leadership and technical skills there. While in the military, I found myself enjoying the technical and computer driven aspects of the office which lead me to follow my true passion for front-end and back-end development.</p>
 
-My legal and management positions bring a fresh prospective to techincal and leaderships roles as it showcases my detailed oriented and organizational skills in any job I perform.</p>
+My leadership and management positions bring a fresh prospective to techincal and leaderships roles as it showcases my detailed oriented and organizational skills in any job I perform.</p>
 
 ## Experience
 
-### CVS Health - Senior Development Engineer
+### Freelance Full Stack Engineer
 
-Develop, design, and deploy e-commerce sites for a Fortune 10 company, including
-[CVS.com/shop](https://www.cvs.com/shop). Manage team of frontend engineers through the project lifecycle. Closely collaborate with engineering and product management, architects, stakeholders and design teams. Additional focuses on security, analytics, accessibility, ad injection and frontend architecture.
+Develop, design, and deploy sites for different companies and individuals. Manage team of frontend engineers through the project lifecycle. Closely collaborate with engineering and product management, architects, stakeholders and design teams. Additional focuses on security, analytics, accessibility, ad injection and frontend architecture.
 
-### CBTS - Software Engineer
+### NUST University
 
-Contracted Software Engineer working on-site at CVS Health.
-
-### Lambda School - Team Lead
-
-Lead and assist two agile teams of several web and app developers to create real-world prototype applications throughout an eight week continued educational program.
+Lead and assist teams of several web and app developers to create real-world prototype applications throughout an eight week continued educational program.
 
 ## Education
 
-### Lambda School
+### National University of Science and Technology, Islamabad
 
-In-depth and immersive web development, software engineer and computer science program. Experience in real-world proof of concept applications and project Team Leaderships roles.
+Mechatronics Engineering
 
-[View Verified Achievement](https://www.youracclaim.com/badges/be49f5f2-5803-462c-97a4-799bae02c1b9/linked_in)
-
-[View School - LambdaSchool.com](https://lambdaschool.com/)
-
-[View Curriculum - Full Stack Web Development](https://learn.lambdaschool.com/course/cs-fsw)
 
 ## Recent Projects & Achievements
 
-### Voice Chatroom -- *Selected to present at Lambda Showcase*
+### Voice Chatroom
 
 Front-End and Back-End web application dashboard allows users to create, join, and manage voice chatroom groups to make real-time voice chats with family and friends through IOS application.
 
